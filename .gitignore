@@ -1,0 +1,5 @@
+tests.py
+solver.py
+__pycache__/
+.idea/
+.git/
