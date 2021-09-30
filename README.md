@@ -31,4 +31,4 @@ pygame==2.0.0
 <p align="center">
   <img align="center" width="500" height="500" src="/gif/sudoku_solve.gif">
 </p>
-<div align="center"><i>Sudoku solver Example</i></div>
+<div align="center"><i>Sudoku solver Example (Slowed down)</i></div>
